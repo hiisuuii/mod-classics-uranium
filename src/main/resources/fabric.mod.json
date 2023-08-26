@@ -9,8 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/classics-uranium",
-		"issues": "TODO",
-		"sources": "TODO"
+		"issues": "https://github.com/hiisuuii/mod-classics-uranium/issues",
+		"sources": "https://github.com/hiisuuii/mod-classics-uranium"
 	},
 	"license": "MIT",
 	"icon": "assets/classic_uranium/icon.png",
