@@ -24,3 +24,4 @@ The Nuclear Reactor Block doesn't have compatibility with J/REI yet. Its recipes
 * Coal -> Uranium Coal
 * Rotten Flesh -> Mutagenic Flesh
 In each case, either Uranium Dust or Uranium Coal can be used as fuel. Uranium Dust is enough to irradiate 1 item, and Uranium Coal can irradiate 3.
+Potion of Mutation can be brewed by adding Mutagenic Flesh to an Awkward Potion.
