@@ -1,0 +1,9 @@
+{
+  "type": "classic_uranium:reactor",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "classic_uranium:mutagenic_flesh",
+  "cookingtime": 3200,
+  "experience": 0.2
+}

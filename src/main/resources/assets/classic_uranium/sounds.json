@@ -1,0 +1,111 @@
+{
+  "entity.grenade.throw": {
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.grenade.throw"
+  },
+  "item.armor.equip_uranium": {
+    "sounds": [
+      "item/armor/equip_diamond1",
+      "item/armor/equip_diamond2",
+      "item/armor/equip_diamond3",
+      "item/armor/equip_diamond4",
+      "item/armor/equip_diamond5",
+      "item/armor/equip_diamond6"
+    ],
+    "subtitle": "subtitles.item.armor.equip_uranium"
+  },
+  "block.reactor.working": {
+    "sounds": [
+      {
+        "name": "block/beacon/ambient",
+        "volume": 0.7,
+        "pitch": 0.3
+      }
+    ],
+    "subtitle": "subtitles.block.reactor.working"
+  },
+  "entity.mutant.ambient": {
+    "sounds": [
+      {
+        "name": "mob/zombie/say1",
+        "pitch": 0.7
+      },{
+        "name": "mob/zombie/say2",
+        "pitch": 0.6
+      },{
+        "name": "mob/zombie/say3",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.mutant.ambient"
+  },
+  "entity.mutant.death": {
+    "sounds": [
+      "mob/zombie/death"
+    ],
+    "subtitle": "subtitles.entity.mutant.death"
+  },
+  "entity.mutant.hurt": {
+    "sounds": [
+      {
+        "name": "mob/zombie/hurt1",
+        "pitch": 0.6
+      },
+      {
+        "name": "mob/zombie/hurt2",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.mutant.hurt"
+  },
+  "entity.mutant.step": {
+    "sounds": [
+      "mob/zombie/step1",
+      "mob/zombie/step2",
+      "mob/zombie/step3",
+      "mob/zombie/step4",
+      "mob/zombie/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "entity.mutant_skeleton.ambient": {
+    "sounds": [
+      "mob/skeleton/say1",
+      "mob/skeleton/say2",
+      "mob/skeleton/say3"
+    ],
+    "subtitle": "subtitles.entity.mutant_skeleton.ambient"
+  },
+  "entity.mutant_skeleton.death": {
+    "sounds": [
+      "mob/skeleton/death"
+    ],
+    "subtitle": "subtitles.entity.mutant_skeleton.death"
+  },
+  "entity.mutant_skeleton.hurt": {
+    "sounds": [
+      "mob/skeleton/hurt1",
+      "mob/skeleton/hurt2",
+      "mob/skeleton/hurt3",
+      "mob/skeleton/hurt4"
+    ],
+    "subtitle": "subtitles.entity.mutant_skeleton.hurt"
+  },
+  "entity.mutant_skeleton.step": {
+    "sounds": [
+      "mob/skeleton/step1",
+      "mob/skeleton/step2",
+      "mob/skeleton/step3",
+      "mob/skeleton/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "entity.nuclear_bomb.primed": {
+    "sounds": [
+      "random/fuse"
+    ],
+    "subtitle": "subtitles.entity.nuclear_bomb.primed"
+  }
+}

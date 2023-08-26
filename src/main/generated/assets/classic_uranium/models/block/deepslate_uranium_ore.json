@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "classic_uranium:block/deepslate_uranium_ore"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "classic_uranium:reactor",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": "classic_uranium:uranium_ingot",
+  "experience": 0.2
+}

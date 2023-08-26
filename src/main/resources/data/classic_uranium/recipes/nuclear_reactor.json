@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ooo",
+    "ouo",
+    "sss"
+  ],
+  "key": {
+    "u": {
+      "item": "classic_uranium:uranium_ingot"
+    },
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "s": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "classic_uranium:nuclear_reactor",
+    "count": 1
+  }
+}

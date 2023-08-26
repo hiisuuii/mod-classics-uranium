@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "classic_uranium:block/reactor_front_lit",
+    "side": "classic_uranium:block/reactor_side",
+    "top": "classic_uranium:block/reactor_top",
+    "bottom": "minecraft:block/furnace_top"
+  }
+}

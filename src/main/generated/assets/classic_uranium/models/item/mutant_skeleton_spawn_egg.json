@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "classic_uranium:item/mutant_skeleton_spawn_egg"
+  }
+}

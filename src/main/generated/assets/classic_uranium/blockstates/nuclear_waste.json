@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "classic_uranium:block/nuclear_waste"
+    }
+  }
+}

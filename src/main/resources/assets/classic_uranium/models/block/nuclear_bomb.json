@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "classic_uranium:block/nuclear_bomb_bottom",
+    "side": "classic_uranium:block/nuclear_bomb_side",
+    "top": "classic_uranium:block/nuclear_bomb_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "classic_uranium:block/deepslate_uranium_ore"
+    }
+  }
+}

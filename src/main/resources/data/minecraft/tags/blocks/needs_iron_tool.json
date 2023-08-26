@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "classic_uranium:nuclear_reactor",
+    "classic_uranium:deepslate_uranium_ore",
+    "classic_uranium:uranium_ore"
+  ]
+}

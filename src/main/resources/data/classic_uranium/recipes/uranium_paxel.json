@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "Z": {
+      "item": "classic_uranium:uranium_pickaxe"
+    },
+    "X": {
+      "item": "classic_uranium:uranium_axe"
+    },
+    "Y": {
+      "item": "classic_uranium:uranium_shovel"
+    }
+  },
+  "pattern": [
+    "XYZ",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "classic_uranium:uranium_paxel"
+  },
+  "show_notification": true
+}

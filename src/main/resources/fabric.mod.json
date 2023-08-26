@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "classic_uranium",
+	"version": "${version}",
+	"name": "Classics: Uranium",
+	"description": "The first in the Classics series! A complete rewrite of the original Uranium Mod by MinecraftForum user 'book'",
+	"authors": [
+		"hisui"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/classics-uranium",
+		"issues": "TODO",
+		"sources": "TODO"
+	},
+	"license": "MIT",
+	"icon": "assets/classic_uranium/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-datagen": [
+          "hisui.classics.uranium.DataGeneration"
+		],
+		"main": [
+          "hisui.classics.uranium.Main"
+		],
+		"client": [
+			"hisui.classics.uranium.MainClient"
+		]
+	},
+	"mixins": [
+		"classic_uranium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": ["~1.20.1","~1.20"],
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "classic_uranium:reactor",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": "classic_uranium:uranium_coal",
+  "experience": 0.2
+}

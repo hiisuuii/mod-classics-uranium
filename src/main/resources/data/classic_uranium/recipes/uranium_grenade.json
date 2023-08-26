@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xy",
+    "xzx",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "classic_uranium:uranium_ingot"
+    },
+    "z": {
+      "item": "minecraft:tnt"
+    },
+    "y": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "classic_uranium:grenade",
+    "count": 1
+  }
+}
