@@ -1,6 +1,7 @@
+![](https://i.imgur.com/z7VRzal.png)
 # Classics: Uranium for Fabric
 
-A Minecraft mod featuring a small amount of breakfast foods.
+The first in the Classics series! A complete rewrite of the original [Uranium Mod](https://web.archive.org/web/20171014125649/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274100-uranium-mod-1-7-10-1-7-2-multiplayer-500k) by MinecraftForum user 'book'
 
 ## Requires
 
