@@ -1,30 +1,29 @@
 ![](https://i.imgur.com/z7VRzal.png)
-# Classics: Uranium for Fabric
+## The first in the Classics series! A complete rewrite of the original [Uranium Mod](https://web.archive.org/web/20171014125649/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274100-uranium-mod-1-7-10-1-7-2-multiplayer-500k) by MinecraftForum user 'book'.
 
-The first in the Classics series! A complete rewrite of the original [Uranium Mod](https://web.archive.org/web/20171014125649/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274100-uranium-mod-1-7-10-1-7-2-multiplayer-500k) by MinecraftForum user 'book'
+----------
 
-## Requires
+### About Classics: Uranium:
+Classics: Uranium was spurned from my desire to see old, long-dead, nostalgic mods remade and brought into modern Minecraft. The original Uranium Mod is quite old and quite simple, and so I thought it a perfect choice for the first in the series.
 
-* Minecraft 1.20 - 1.20.1
-* Fabric Loader >=0.14.22
-* Fabric API >=0.83.0+1.20
+----------
 
-## Installation
+### Features:
+ * Uranium Ore - Generates from -32 to 32. Be careful not to touch it or drop anything on it!
+ * Nuclear Reactor - A cheaper way to create Uranium Ingots, and required to make some other irradiated items!
+ * Uranium Tools & Armor - Slightly better than iron, with the enchantability of gold!
+ * Mutants & Radioactive Skeletons - Beware! These new mobs are created by splashing regular Zombies and Skeletons with the new Potion of Mutation!
+ * Nuclear Bombs - Massive, deadly explosion that spews Nuclear Waste everywhere!
+ * Grenades - Pack TNT in a uranium shell to create a powerful throwable bomb!
+ * Uranium Coal - Coal but better! Radiation gives it superpowers.
 
-### Modrinth
-Classics: Uranium releases can be downloaded from [Modrinth](https://modrinth.com/mod/classics-uranium).
+----------
+### Recipes
+The Nuclear Reactor Block doesn't have compatibility with J/REI yet. Its recipes are as follows:
+* Gold Ingot -> Uranium Ingot
+* Coal -> Uranium Coal
+* Rotten Flesh -> Mutagenic Flesh
 
-#### Building From Source
-If you want to build Classics: Uranium from source, clone this repo and run the following:
-```
-gradlew build
-```
-Build files are located in the project's build/libs folder.
+In each case, either Uranium Dust or Uranium Coal can be used as fuel. Uranium Dust is enough to irradiate 1 item, and Uranium Coal can irradiate 3.
 
-## Contribution
-
-You can report bugs and crashes by opening an issue on the issue tracker. Before opening a new issue, use the search tool to make sure that your issue has not already been reported and ensure that you have completely filled out the issue template. Issues that are duplicates or do not contain the necessary information to reproduce and debug may be closed.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Potion of Mutation can be brewed by adding Mutagenic Flesh to an Awkward Potion.
