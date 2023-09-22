@@ -2,6 +2,6 @@
   "replace": false,
   "values": [
     "classic_uranium:uranium_shovel",
-    "classic:uranium:uranium_paxel"
+    "classic_uranium:uranium_paxel"
   ]
 }
