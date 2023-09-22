@@ -24,6 +24,9 @@
 		],
 		"client": [
 			"hisui.classics.uranium.MainClient"
+		],
+		"rei_client":[
+			"hisui.classics.uranium.rei.ReiPlugin"
 		]
 	},
 	"mixins": [
