@@ -19,7 +19,7 @@ Classics: Uranium was spurned from my desire to see old, long-dead, nostalgic mo
 
 ----------
 ### Recipes
-The Nuclear Reactor Block doesn't have compatibility with J/REI yet. Its recipes are as follows:
+J/REI support for the Nuclear Reactor is not planned at this time. Its recipes are as follows:
 * Gold Ingot -> Uranium Ingot
 * Coal -> Uranium Coal
 * Rotten Flesh -> Mutagenic Flesh
